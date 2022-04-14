@@ -1,9 +1,13 @@
 # Difficulty Voting in 2020 Election
 
 W203 Statistics for Data Science
+
 By Sophie Yeh, Matthew Lauritzen, Torrey Trahannovsky
+
 ucb_mids_w203_lab1
+
 Part 1: Statistical tests and assumption assessments on various datasets
+
 Part 2: Did Dem or Rep voters experience more difficulty voting during the 2020 Election?
 
 # Importance and Context
